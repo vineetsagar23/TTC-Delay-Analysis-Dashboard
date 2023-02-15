@@ -1,3 +1,5 @@
+<img align="center" src="image/Logo.png" height=300>
+
 # TTC-Delay-Analysis-Dashboard
 
 This repository contains a Tableau dashboard for analyzing delays in the Toronto Transit Commission (TTC) system. The dashboard is based on a dataset from 2022 and covers over 27,000 delay incidents.
@@ -18,6 +20,8 @@ The dashboard includes several visualizations that showcase the frequency and du
 - Security,
 - Utilized Off Route,
 - Vision.
+
+<img align="center" src="image/Dashboad_1.jpge" height=300>
 
 One of the main findings of my analysis is that the most common reason for delays is Operations - Operator issues, which total accounted for about ~35% of all incidents. The second most common reason was " Mechanical " which accounts to ~30% of delay.
 
