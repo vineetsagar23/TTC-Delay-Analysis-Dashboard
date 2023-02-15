@@ -1,4 +1,4 @@
-<img align="center" src="image/Logo.png" height=300>
+<img align="center" src="Image/Logo.png" height=300>
 
 # TTC-Delay-Analysis-Dashboard
 
@@ -21,7 +21,7 @@ The dashboard includes several visualizations that showcase the frequency and du
 - Utilized Off Route,
 - Vision.
 
-<img align="center" src="image/Dashboad_1.jpge" height=300>
+<img align="center" src="Image/Dashboad_1.jpge" height=300>
 
 One of the main findings of my analysis is that the most common reason for delays is Operations - Operator issues, which total accounted for about ~35% of all incidents. The second most common reason was " Mechanical " which accounts to ~30% of delay.
 
