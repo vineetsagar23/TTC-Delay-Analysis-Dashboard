@@ -23,18 +23,18 @@ The dashboard includes several visualizations that showcase the frequency and du
 
 <img align="center" src="Image/Dashboard_2.jpg" height=500>
 
-One of the main findings of my analysis is that the most common reason for delays is Operations - Operator issues, which total accounted for about ~35% of all incidents. The second most common reason was " Mechanical " which accounts to ~30% of delay.
+The analysis reveals that the most common reason for delays is Operations - Operator issues, which total accounted for about ~35% of all incidents. The second most common reason was " Mechanical " which accounts to ~30% of delay. Combined, the top two reasons account for approximately 55% of all instances of delay.
 
-Apart of these two reason, I obsered three other reasons which are directly linked to Safety of passangers. There issues are:
+The analysis has also uncovered a key finding that three other issues are directly linked to passenger safety. These issues are:
 - Collision - TTC : 6.67%
 - Security : 5.82% 
 - Emergency Services : 4.07%
 
 <img align="center" src="Image/Dashboard_3.jpg" height=500>
 
-These incidence account to a total of 16.56% which is a significant concern that should be addressed by authorities. The dashboard also drills down into the top 10 routes where these incidents occurred to identify commonalities and study their root causes.
+These incidences account to a total of 16.56% which is a significant concern that should be addressed by authorities. The dashboard also drills down into the top 10 routes where these incidents occurred to identify commonalities and study their root causes.
 
-Moreover, the dashboard's second half features an interactive interface that allows users to navigate between different routes and review essential information through charts, including:
+Furthermore, the dashboard's second half features an interactive interface that allows users to navigate between different routes and review essential information through charts, including:
 - Incidents and Weekday Stack Chart
 - Incident Percentage By Day Table
 - Top 5 Reasons of Incident
