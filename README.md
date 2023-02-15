@@ -1,4 +1,4 @@
-                                                <img align="center" src="Image/Logo.png" height=300>
+<img align="left" src="Image/Logo.png" height=300>
 
 # TTC-Delay-Analysis-Dashboard
 
